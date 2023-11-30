@@ -10,6 +10,7 @@ namespace mtzkit
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello mtzkit, i don't have a dog")
         }
     }
 }
